@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://epawn7.github.io/sitemap.xml
+Sitemap: https://epawm7.github.io/sitemap.xml
