@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="http://epawn7.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://epawn7.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://epawn7.github.io/categories/</loc>
+    <loc>https://epawn7.github.io/post/readme/</loc>
+    <lastmod>2018-04-05T10:26:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://epawn7.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://epawn7.github.io/</loc>
+    <loc>https://epawn7.github.io/</loc>
+    <lastmod>2018-04-05T10:26:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://epawn7.github.io/tags/</loc>
+    <loc>https://epawn7.github.io/post/</loc>
+    <lastmod>2018-04-05T10:26:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://epawn7.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
